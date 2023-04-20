@@ -1,2 +1,29 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+--Slap Battles
+if game.PlaceId == 6403373529 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua"))()
+end
+
+--Slap Royale
+if game.PlaceId == 9431156611 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua"))()
+end
+
+--Slap Royale Matchmaking
+if game.PlaceId == 9426795465 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua"))()
+end
+
+--Slap Battles - NO ONESHOT GLOVES
+if game.PlaceId == 9015014224 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua"))()
+end
+
+--Slap Battles - KILLSTREAK ONLY
+if game.PlaceId == 11520107397 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua"))()
+end
+
+--Slap Royale Queue
+if game.PlaceId == 9412139218 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua"))()
+end
